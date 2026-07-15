@@ -12,13 +12,17 @@ I enjoy designing scalable cloud architectures, automating business processes, a
 
 **University of North Texas**
 
-Bachelor of Science in Information Science
+**Bachelor of Science in Information Science**
 
 Graduated: May 2025
 
 🏅 Dean's List — Spring 2025
 
----
+**CUNY Queensborough Community College**
+
+**Associate of Applied Science in Internet and Information Technology**
+
+Graduated: May 2023
 
 # 🏆 Certifications
 
