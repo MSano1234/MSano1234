@@ -2,7 +2,7 @@
 
 ## ☁️ Cloud Engineer | AWS Certified Solutions Architect – Associater | IT Professional
 
-I'm an IT professional with hands-on experience building cloud-native applications using AWS and developing business solutions with Salesforce.
+I'm an IT professional with hands-on experience building cloud-native applications using AWS and developing business solutions with AWS.
 
 I enjoy designing scalable cloud architectures, automating business processes, and building production-style applications that demonstrate modern software engineering and cloud best practices.
 
@@ -48,7 +48,6 @@ Production-style serverless delivery management platform deployed on AWS.
 - AWS SAM
 - CloudFormation
 - React
-- Vite
 
 🔗 Repository
 
@@ -91,14 +90,6 @@ https://github.com/MSano1234/datatrustapp
 - Reports & Dashboards
 - Security & Permissions
 
-### Programming
-
-- JavaScript
-- React
-- Node.js
-- HTML
-- CSS
-
 ### Data & Analytics
 
 - SQL
@@ -109,6 +100,7 @@ https://github.com/MSano1234/datatrustapp
 
 - Git
 - GitHub
+- powershell
 - Jira
 - VS Code
 - zendesk
@@ -120,7 +112,7 @@ https://github.com/MSano1234/datatrustapp
 - AWS Developer
 - DevOps
 - CI/CD Pipelines
-- Infrastructure as Code
+- cloud Infrastructure
 - Cloud Architecture
 
 ---
