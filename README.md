@@ -111,17 +111,17 @@ https://github.com/MSano1234/datatrustapp
 - GitHub
 - Jira
 - VS Code
+- zendesk
 
 ---
 
 # 🌱 Currently Expanding Skills
 
-- Advanced Salesforce Administration
 - AWS Developer
 - DevOps
 - CI/CD Pipelines
 - Infrastructure as Code
-- Enterprise Cloud Architecture
+- Cloud Architecture
 
 ---
 
