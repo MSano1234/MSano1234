@@ -1,6 +1,6 @@
 # Hi there, I'm Mamoud Sano 👋
 
-## ☁️ Cloud Engineer | AWS Certified Solutions Architect – Associater | IT Professional
+## ☁️ Cloud Engineer | AWS Certified Solutions Architect | IT Professional
 
 I'm an IT professional with hands-on experience building cloud-native applications using AWS and developing business solutions with AWS.
 
