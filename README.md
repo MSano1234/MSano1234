@@ -1,10 +1,8 @@
 # Hi there, I'm Mamoud Sano 👋
 
-## ☁️ Cloud Engineer | AWS Certified Solutions Architect | IT Professional
+## ☁️ AWS Certified Solutions Architect | IT Professional | Cloud & Systems
 
-I'm an IT professional with hands-on experience building cloud-native applications using AWS and developing business solutions with AWS.
-
-I enjoy designing scalable cloud architectures, automating business processes, and building production-style applications that demonstrate modern software engineering and cloud best practices.
+I'm an IT professional with 3+ years of technical support experience and hands-on experience building and deploying cloud-based applications with AWS. I enjoy solving technical problems, integrating software and systems, and building practical cloud solutions that demonstrate real-world AWS architecture, automation, and application development. Currently expanding my skills in cloud engineering, DevOps, infrastructure, and modern application deployment.
 
 ---
 
@@ -24,30 +22,35 @@ Graduated: May 2025
 
 Graduated: May 2023
 
+---
+
 # 🏆 Certifications
 
-- ✅ AWS Certified Solutions Architect – Associate
-- ✅ Salesforce Certified Administrator
-- ✅ Windows Server 2019 Administrator
-- ✅ Google IT Support Professional Certificate
+* ✅ AWS Certified Solutions Architect – Associate
+* ✅ Salesforce Certified Administrator
+* ✅ Windows Server 2019 Administrator
+* ✅ Google IT Support Professional Certificate
 
 ---
 
 # 🚀 Featured Projects
 
-## ☁️ MS Cloud Delivery Platform
+## ☁️ My SwiftDrop — AWS Delivery Platform
 
-Production-style serverless delivery management platform deployed on AWS.
+Cloud-based delivery management platform that I designed, developed, integrated, and deployed using AWS and React.
+
+The project demonstrates serverless architecture, cloud infrastructure, API integration, database management, application deployment, and modern web development.
 
 ### Built With
 
-- AWS Lambda
-- Amazon API Gateway
-- Amazon DynamoDB
-- AWS Amplify
-- AWS SAM
-- CloudFormation
-- React
+* AWS Amplify
+* AWS Lambda
+* Amazon API Gateway
+* Amazon DynamoDB
+* AWS AppSync / GraphQL
+* AWS SAM
+* AWS CloudFormation
+* React
 
 🔗 Repository
 
@@ -59,73 +62,118 @@ https://main.d18jr0frktcuwm.amplifyapp.com
 
 ---
 
-## 📊 DataTrust
+## 📊 My DataTrust Platform
 
-Cloud-based data management application demonstrating modern full-stack development and cloud deployment.
+Cloud-based data management application demonstrating full-stack development, cloud deployment, and data-driven application design.
 
-Repository
+### Built With
+
+* React
+* AWS Amplify
+* AWS AppSync / GraphQL
+* Amazon DynamoDB
+* AWS Cloud Services
+
+🔗 Repository
 
 https://github.com/MSano1234/datatrustapp
+
+🌐 Live Demo
+
+https://main.d18jr0frktcuwm.amplifyapp.com
 
 ---
 
 # 💼 Technical Skills
 
-### Cloud
+### ☁️ Cloud & Infrastructure
 
-- AWS
-- AWS Lambda
-- Amazon API Gateway
-- DynamoDB
-- AWS Amplify
-- AWS SAM
-- CloudFormation
-- IAM
+* AWS
+* AWS Lambda
+* Amazon API Gateway
+* Amazon DynamoDB
+* AWS Amplify
+* AWS AppSync / GraphQL
+* AWS SAM
+* AWS CloudFormation
+* IAM
+* Cloud Architecture
+* Serverless Applications
 
-### Salesforce
+### 🖥️ IT & Systems
 
-- Salesforce Administration
-- Flow Automation
-- User Management
-- Reports & Dashboards
-- Security & Permissions
+* Technical Troubleshooting
+* Software Deployment
+* Hardware & Software Integration
+* Network Troubleshooting
+* IT Infrastructure
+* System Configuration
+* Customer-Facing Technical Support
+* Technical Documentation
 
-### Data & Analytics
+### ☁️ Salesforce
 
-- SQL
-- Tableau
-- Power BI
+* Salesforce Administration
+* Flow Automation
+* User Management
+* Reports & Dashboards
+* Security & Permissions
 
-### Tools
+### 📊 Data & Analytics
 
-- Git
-- GitHub
-- powershell
-- Jira
-- VS Code
-- zendesk
+* SQL
+* Tableau
+* Power BI
+
+### 🛠️ Tools
+
+* Git
+* GitHub
+* PowerShell
+* Jira
+* VS Code
+* Zendesk
 
 ---
 
 # 🌱 Currently Expanding Skills
 
-- AWS Developer
-- DevOps
-- CI/CD Pipelines
-- cloud Infrastructure
-- Cloud Architecture
+* AWS Cloud Engineering
+* AWS Application Development
+* DevOps
+* CI/CD
+* Infrastructure as Code
+* Cloud Infrastructure
+* Cloud Architecture
+* Automation
 
 ---
 
 # 📈 Professional Experience
 
-- 3+ years of Technical Support
-- Cloud-native Application Development
-- Salesforce Administration
-- IT Infrastructure
-- Customer-Facing Technical Support
-- Software Deployment
-- Technical Documentation
+* 3+ years of Technical Support
+* Cloud Application Development
+* AWS Cloud Projects
+* Software Deployment & Integration
+* Hardware & Software Integration
+* IT Infrastructure & Troubleshooting
+* Salesforce Administration
+* Network Troubleshooting
+* Customer-Facing Technical Support
+* Technical Documentation
+
+---
+
+# 🎯 Career Focus
+
+I'm currently focused on opportunities in:
+
+* Cloud Engineering
+* AWS / Cloud Infrastructure
+* Cloud Support
+* IT Systems & Infrastructure
+* Technical Support Engineering
+* AWS-focused IT roles
 
 ---
 
@@ -133,11 +181,11 @@ https://github.com/MSano1234/datatrustapp
 
 📧 Email
 
-mamouds1234@gmail.com
+[mamouds1234@gmail.com](mailto:mamouds1234@gmail.com)
 
 💼 LinkedIn
 
-www.linkedin.com/in/mamoud-sano
+[www.linkedin.com/in/mamoud-sano](http://www.linkedin.com/in/mamoud-sano)
 
 💻 GitHub
 
