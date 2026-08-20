@@ -35,7 +35,7 @@ Graduated: May 2023
 
 # 🚀 Featured Projects
 
-## ☁️ SwiftDrop — Serverless Delivery Platform
+## ☁️ My SwiftDrop — Serverless Delivery Platform
 • Built and deployed a full-stack serverless delivery platform using React and AWS, integrating Lambda, API Gateway, DynamoDB, and Amplify, with customer and driver workflows end to end.
 
 • Implemented authentication/authorization and database-backed application functionality using AWS Amplify, Lambda, API Gateway, and DynamoDB.
