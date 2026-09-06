@@ -2,7 +2,7 @@
 
 ## ☁️ AWS Certified Solutions Architect | IT Professional | Cloud & Systems
 
-I'm an IT professional with 3+ years of technical support experience and hands-on experience building and deploying cloud-based applications with AWS. I enjoy solving technical problems, integrating software and systems, and building practical cloud solutions that demonstrate real-world AWS architecture, automation, and application development. Currently expanding my skills in cloud engineering, DevOps, infrastructure, and modern application deployment.
+I'm an IT professional with 4+ years of technical support experience and hands-on experience building and deploying cloud-based applications with AWS. I enjoy solving technical problems, integrating software and systems, and building practical cloud solutions that demonstrate real-world AWS architecture, automation, and application development. Currently expanding my skills in cloud engineering, DevOps, infrastructure, and modern application deployment.
 
 ---
 
